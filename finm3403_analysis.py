@@ -46,7 +46,7 @@ INDUSTRIES = {
     "Logistics/Property":    ["GMG.AX", "QUB.AX"],
 }
 
-OUTPUT_DIR = "/mnt/user-data/outputs/"
+OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__)) + "/"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 print("=" * 60)
