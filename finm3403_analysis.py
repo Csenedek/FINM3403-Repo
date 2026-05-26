@@ -4,7 +4,7 @@ FINM3403 Group Assignment: China Exposure from an Australian Investor Perspectiv
 Parts C through G: Data construction, regressions, correlations, risk-return,
 and portfolio optimisation.
 
-Run this script after placing your NBS data CSV files in the same folder.
+Run this script after placing NBS data CSV files in the same folder.
 All outputs are saved to an Excel workbook and PNG chart files.
 """
 
